@@ -6,27 +6,20 @@
 ---
 
 ## 👩‍💻 About Me
-I'm a **Software Engineering student at SLIIT**, focusing on:
+I'm a **Final Year Software Engineering undergraduate at SLIIT**, focusing on:
 - 🌐 Web Development  
 - 🤖 AI-powered Applications  
 - 📱 Mobile App Development  
 
-I love building innovative solutions and contributing to open source 🚀
+I enjoy building innovative solutions and contributing to open source 🚀  
+I’m especially strong at **vibe coding** — quickly turning ideas into working solutions with clean and efficient code ⚡
 
 ---
 
 ## 💬 Ask Me About
-💻 Web Development | 📱 Mobile Apps | 🤖 AI Web Apps
+💻 Web Development | 📱 Mobile Apps | 🤖 AI Web Apps | ⚡ Rapid Prototyping (Vibe Coding)
 
 ---
 
 ## 🛠 Languages & Tools
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Java](https://skillicons.dev/icons?i=java)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![PHP](https://skillicons.dev/icons?i=php)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Skills](https://skillicons.dev/icons?i=python,js,ts,java,html,css,c,cpp,php,kotlin,nodejs,express,nextjs,mongodb)
