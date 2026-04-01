@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Isuri!
 
 ## 📊 Profile Views
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=Isu12&color=blue)
 
 ---
 
