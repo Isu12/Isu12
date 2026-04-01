@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I'm Isuri!
 
-<!--
-**Isu12/Isu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Profile Views
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I'm a **Software Engineering student at SLIIT**, focusing on:
+- 🌐 Web Development  
+- 🤖 AI-powered Applications  
+- 📱 Mobile App Development  
+
+I love building innovative solutions and contributing to open source 🚀
+
+---
+
+## 💬 Ask Me About
+💻 Web Development | 📱 Mobile Apps | 🤖 AI Web Apps
+
+---
+
+## 🛠 Languages & Tools
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Java](https://skillicons.dev/icons?i=java)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![C](https://skillicons.dev/icons?i=c)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![PHP](https://skillicons.dev/icons?i=php)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
