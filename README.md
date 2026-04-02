@@ -23,3 +23,5 @@ I’m especially strong at **vibe coding** — quickly turning ideas into workin
 
 ## 🛠 Languages & Tools
 ![Skills](https://skillicons.dev/icons?i=python,js,ts,java,html,css,c,cpp,php,kotlin,nodejs,express,nextjs,mongodb)
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=FF8C00&fire=FF8C00&currStreakLabel=FFA500)
